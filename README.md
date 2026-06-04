@@ -63,7 +63,7 @@ was created in ANSYS DesignModeler.
 
 ### Geometry
 
-![Geometry](images/geometry.png)
+![Geometry](images/Geometry.png)
 
 ---
 
@@ -73,7 +73,7 @@ A structured quadrilateral mesh was generated to improve numerical accuracy and 
 
 ### Mesh
 
-![Mesh](images/mesh.png)
+![Mesh](images/Mesh-1.png)
 
 ---
 
@@ -98,7 +98,7 @@ The Reynolds number was controlled by changing the velocity of the moving lid.
 
 ### Pressure Contour
 
-![Re100 Pressure](images/re100/pressure-contour.png)
+![Re100 Pressure](images/re100/Pressure-Contour.png)
 
 ### Velocity Contour
 
