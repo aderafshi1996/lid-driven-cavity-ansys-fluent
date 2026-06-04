@@ -30,15 +30,12 @@ The simulation considers a square cavity filled with an incompressible Newtonian
 
 The governing Reynolds number is defined as:
 
-[
-Re = \frac{V L}{\nu}
-]
+Re = V × L / ν
 
 Where:
-
-* (V) = lid velocity
-* (L) = cavity length
-* (\nu) = kinematic viscosity
+- V = lid velocity
+- L = cavity length
+- ν = kinematic viscosity
 
 ---
 
