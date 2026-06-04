@@ -73,7 +73,7 @@ A structured quadrilateral mesh was generated to improve numerical accuracy and 
 
 ### Mesh
 
-![Mesh](images/Mesh 1.png)
+![Mesh](images/Mesh%201.png)
 
 ---
 
