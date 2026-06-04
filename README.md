@@ -98,23 +98,23 @@ The Reynolds number was controlled by changing the velocity of the moving lid.
 
 ### Pressure Contour
 
-![Re100 Pressure](images/re100/Pressure-Contour.png)
+![Re100 Pressure](images/re100/Pressure%20Contour.png)
 
 ### Velocity Contour
 
-![Re100 Velocity](images/re100/velocity-contour.png)
+![Re100 Velocity](images/re100/Velocity%20Contour.png)
 
 ### Streamlines
 
-![Re100 Streamlines](images/re100/streamlines.png)
+![Re100 Streamlines](images/re100/Velocity%20Streamline.png)
 
 ### u-Velocity Distribution
 
-![Re100 u velocity](images/re100/u-velocity.png)
+![Re100 u velocity](images/re100/U%20Velocity.png)
 
 ### v-Velocity Distribution
 
-![Re100 v velocity](images/re100/v-velocity.png)
+![Re100 v velocity](images/re100/V%20Velocity.png)
 
 ---
 
