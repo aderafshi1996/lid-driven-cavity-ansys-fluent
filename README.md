@@ -55,9 +55,9 @@ Where:
 
 A two-dimensional square cavity with dimensions:
 
-[
-A two-dimensional square cavity with dimensions: 1 m × 1 m
-]
+
+1 m × 1 m
+
 
 was created in ANSYS DesignModeler.
 
