@@ -122,23 +122,23 @@ The Reynolds number was controlled by changing the velocity of the moving lid.
 
 ### Pressure Contour
 
-![Re400 Pressure](images/re400/pressure-contour.png)
+![Re400 Pressure](images/re400/Pressure%20Contour.png)
 
 ### Velocity Contour
 
-![Re400 Velocity](images/re400/velocity-contour.png)
+![Re400 Velocity](images/re400/Velocity%20Contour.png)
 
 ### Streamlines
 
-![Re400 Streamlines](images/re400/streamlines.png)
+![Re400 Streamlines](images/re400/Velocity%20Streamline.png)
 
 ### u-Velocity Distribution
 
-![Re400 u velocity](images/re400/u-velocity.png)
+![Re400 u velocity](images/re400/U%20Velocity.png)
 
 ### v-Velocity Distribution
 
-![Re400 v velocity](images/re400/v-velocity.png)
+![Re400 v velocity](images/re400/V%20Velocity.png)
 
 ---
 
@@ -146,23 +146,23 @@ The Reynolds number was controlled by changing the velocity of the moving lid.
 
 ### Pressure Contour
 
-![Re1000 Pressure](images/re1000/pressure-contour.png)
+![Re1000 Pressure](images/re1000/Pressure%20Contour.png)
 
 ### Velocity Contour
 
-![Re1000 Velocity](images/re1000/velocity-contour.png)
+![Re1000 Velocity](images/re1000/Velocity%20Contour.png)
 
 ### Streamlines
 
-![Re1000 Streamlines](images/re1000/streamlines.png)
+![Re1000 Streamlines](images/re1000/Velocity%20Streamlines.png)
 
 ### u-Velocity Distribution
 
-![Re1000 u velocity](images/re1000/u-velocity.png)
+![Re1000 u velocity](images/re1000/U%20Velocity.png)
 
 ### v-Velocity Distribution
 
-![Re1000 v velocity](images/re1000/v-velocity.png)
+![Re1000 v velocity](images/re1000/V%20Velocity.png)
 
 ---
 
@@ -170,23 +170,23 @@ The Reynolds number was controlled by changing the velocity of the moving lid.
 
 ### Pressure Contour
 
-![Re5000 Pressure](images/re5000/pressure-contour.png)
+![Re5000 Pressure](images/re5000/Pressure%20Contour.png)
 
 ### Velocity Contour
 
-![Re5000 Velocity](images/re5000/velocity-contour.png)
+![Re5000 Velocity](images/re5000/Velocity%20Contour.png)
 
 ### Streamlines
 
-![Re5000 Streamlines](images/re5000/streamlines.png)
+![Re5000 Streamlines](images/re5000/Velocity%20Streamlines.png)
 
 ### u-Velocity Distribution
 
-![Re5000 u velocity](images/re5000/u-velocity.png)
+![Re5000 u velocity](images/re5000/U%20Velocity.png)
 
 ### v-Velocity Distribution
 
-![Re5000 v velocity](images/re5000/v-velocity.png)
+![Re5000 v velocity](images/re5000/V%20Velocity.png)
 
 ---
 
